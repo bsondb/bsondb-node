@@ -1,0 +1,28 @@
+{
+  "name": "bsondb",
+  "version": "0.0.1",
+  "description": "no-server document database (implement by node)",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsondb/bsondb-node.git"
+  },
+  "keywords": [
+    "bson",
+    "no-server",
+    "bsondb",
+    "database"
+  ],
+  "author": "alingse",
+  "license": "Apache Licence 2.0",
+  "bugs": {
+    "url": "https://github.com/bsondb/bsondb-node/issues"
+  },
+  "homepage": "https://github.com/bsondb/bsondb-node#readme",
+  "dependencies": {
+    "bson": "^0.5.5"
+  }
+}
